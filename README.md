@@ -44,7 +44,7 @@ npm run test
 
 ### Presenting To
 
-Navyashree S From Sahyadri Engineering College & Management
+Rashmi Mam & Navyashree S, Sahyadri Engineering College & Management
 
 ### BY
 
