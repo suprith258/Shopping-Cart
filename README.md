@@ -42,9 +42,14 @@ npm run test
 
 ```
 
-### Copyright and license
+### Presenting To
 
 Navyashree S From Sahyadri Engineering College & Management
+
+### BY
+
+Suprith S
+Computer Science & Engg
 
 <br/>
 <br/>
