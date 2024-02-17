@@ -52,7 +52,7 @@ npm run test
 
 ### Copyright and license
 
-The MIT License (MIT). Please see License File for more information.
+Navyashree S From Sahyadri Engineering College & Management
 
 <br/>
 <br/>
